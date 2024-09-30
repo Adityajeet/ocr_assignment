@@ -15,6 +15,15 @@ To set up this project in your computer, follow these steps:
     ```
 2. Create a virtual environment and activate it:
     ```bash
-    python -m venv myenv
-    # On Windows use `myenv\Scripts\activate`
+    python -m venv env_ocr
+    # On Windows use `env_ocr\Scripts\activate`
     ```
+3. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. Run:
+    ```bash
+    streamlit run app.py
+    ```
+   
