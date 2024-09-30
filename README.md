@@ -5,3 +5,16 @@ This project is a web-based prototype that performs Optical Character Recognitio
 
 ## URL
 Link: https://ocrassignment-buiemzyzo9xdwpgndfuv5c.streamlit.app/
+
+## Installation
+To set up this project in your computer, follow these steps:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Adityajeet/ocr_assignment.git
+    cd ocr_assignment
+    ```
+2. Create a virtual environment and activate it:
+    ```bash
+    python -m venv myenv
+    # On Windows use `myenv\Scripts\activate`
+    ```
